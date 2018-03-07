@@ -26,7 +26,7 @@ class HomeItem extends Component {
     return (
       <Block >
         <Block >
-          <Heading h3 margin="20px 0" color="white">{this.props.colTitle}</Heading>
+          <Heading h3 margin="20px 0" color="black">{this.props.colTitle}</Heading>
       </Block>
         <Block>
           <div className="test">
